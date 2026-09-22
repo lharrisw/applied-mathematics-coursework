@@ -9,7 +9,7 @@ The work spans numerical analysis, ordinary differential equations, partial diff
 ### Signal Processing
 
 - **Audio signal recovery (collaborative applied linear algebra project):** Investigated a jammed voice recording with FFT-based frequency filtering, low-pass filtering, experimental convolution filters, and numerical linear algebra. The project achieved partial, not complete, recovery. The report credits the full team; the MATLAB script below is my individual work.
-  - [Complete project report (PDF)](signal_processing/audio_signal_recovery/report_ebook.pdf)
+  - Complete group report: `report_ebook.pdf` (source available in the ChatGPT project; GitHub upload pending).
   - [My MATLAB signal-processing script](signal_processing/audio_signal_recovery/Project_2_lat.m)
 
 ### Numerical Analysis
