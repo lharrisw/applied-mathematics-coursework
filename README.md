@@ -2,9 +2,13 @@
 
 This repository contains selected computational coursework from undergraduate and graduate study in applied mathematics.
 
-The work spans numerical analysis, ordinary differential equations, partial differential equations, and vector analysis, with most computational exercises implemented in MATLAB.
+The work spans numerical analysis, ordinary differential equations, partial differential equations, vector analysis, and exploratory audio signal processing, with most computational exercises implemented in MATLAB.
 
 ## Areas Covered
+
+### Signal Processing
+
+- [Audio signal recovery (individual MATLAB work from a group project)](signal_processing/audio_signal_recovery/README.md): FFT-based frequency filtering, low-pass and experimental Gaussian-like convolution filters, with exploratory QR/SVD analysis. This historical work achieved partial recovery only; original audio and the jointly authored report are not published here.
 
 ### Numerical Analysis
 
@@ -59,6 +63,9 @@ Topics include:
 ## Repository Structure
 
 ```text
+signal_processing/
+└── audio_signal_recovery/
+
 numerical_analysis/
 ├── assignments/
 ├── exams/
