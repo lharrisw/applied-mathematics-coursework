@@ -17,7 +17,7 @@ The QR/SVD portion was exploratory and is **not** presented as a validated denoi
 
 This is **historical coursework, not production-ready signal-processing software**. The script is preserved as an individual work sample, including experimental steps and commented-out alternatives. It has not been refactored into a standalone application or independently validated for arbitrary audio. It requires an original input file named `Message.mat` containing `data` and `fs`; that file is not included, so this script is **not runnable as-is** from this repository. Some steps also require a compatible MATLAB installation and toolboxes.
 
-The complete class report and audio recordings are intentionally **not published** here. The report was jointly authored, and including this individual script does not imply sole authorship of the overall project. Other contributors are not named on this public portfolio page.
+The full class report is a jointly authored document, and including this individual script does not imply sole authorship of the overall project. The PDF report has **not yet been uploaded to this repository**; when shared, its original author credits should remain on its title page. The original audio recordings are not included here.
 
 ## Context
 
